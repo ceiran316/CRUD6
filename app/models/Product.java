@@ -3,7 +3,7 @@ package models;
 import java.util.*;
 import javax.persistence.*;
 
-import com.avaje.ebean.Model;
+import com.avaje.ebean.*;
 import play.data.format.*;
 import play.data.validation.*;
 
